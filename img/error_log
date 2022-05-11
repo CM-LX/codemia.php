@@ -1,0 +1,84 @@
+[04-May-2022 16:32:25 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 30
+[04-May-2022 16:59:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 43
+[04-May-2022 17:00:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 42
+[04-May-2022 17:01:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 42
+[04-May-2022 17:05:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/codemia.php:44) in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 50
+[04-May-2022 17:05:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/codemia.php:44) in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 50
+[04-May-2022 17:05:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/codemia.php:44) in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 50
+[04-May-2022 17:13:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/codemia.php:43) in /home/sxhd01ne/public_html/codemia/img/codemia.php on line 53
+[09-May-2022 16:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'classDB' not found in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 16
+[09-May-2022 16:22:46 UTC] PHP Fatal error:  Uncaught Error: Class 'classDB' not found in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 16
+[09-May-2022 16:27:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:30:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:33:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:34:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:36:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:36:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:36:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:36:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:37:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:38:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 69
+[09-May-2022 16:40:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 70
+[09-May-2022 16:42:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 70
+[09-May-2022 16:42:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:35) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 71
+[09-May-2022 16:44:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[09-May-2022 16:45:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[09-May-2022 16:48:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 48
+[09-May-2022 16:49:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 48
+[09-May-2022 16:50:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:63) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 72
+[09-May-2022 16:56:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:64) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 73
+[09-May-2022 17:13:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:78) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 85
+[09-May-2022 17:13:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:78) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 85
+[09-May-2022 17:14:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:78) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 85
+[09-May-2022 17:15:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:78) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 85
+[09-May-2022 17:16:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:79) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 86
+[09-May-2022 17:52:27 UTC] PHP Warning:  Use of undefined constant linha1 - assumed 'linha1' (this will throw an Error in a future version of PHP) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 105
+[09-May-2022 17:52:27 UTC] PHP Warning:  imagettftext() expects parameter 8 to be string, array given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 109
+[09-May-2022 17:52:27 UTC] PHP Warning:  imagettftext() expects parameter 8 to be string, array given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 110
+[09-May-2022 19:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printLine() in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 129
+[09-May-2022 19:51:03 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[09-May-2022 19:51:03 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[09-May-2022 19:52:40 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[09-May-2022 19:52:40 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[09-May-2022 19:53:24 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[09-May-2022 19:53:24 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[09-May-2022 19:53:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:46) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 165
+[09-May-2022 19:54:16 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[09-May-2022 19:54:16 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[09-May-2022 19:55:07 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[09-May-2022 19:55:07 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[09-May-2022 19:55:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:46) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 165
+[10-May-2022 15:30:32 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[10-May-2022 15:30:32 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[10-May-2022 15:31:13 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[10-May-2022 15:31:13 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[10-May-2022 15:32:33 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 50
+[10-May-2022 15:32:33 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[10-May-2022 15:33:37 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[10-May-2022 15:33:37 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 52
+[10-May-2022 15:34:03 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 51
+[10-May-2022 15:34:03 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 52
+[10-May-2022 15:34:38 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 52
+[10-May-2022 15:34:38 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 53
+[10-May-2022 15:35:46 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 52
+[10-May-2022 15:35:46 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 53
+[10-May-2022 15:35:46 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 54
+[10-May-2022 15:36:32 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 53
+[10-May-2022 15:36:32 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 54
+[10-May-2022 15:36:32 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 55
+[10-May-2022 15:36:58 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 54
+[10-May-2022 15:36:58 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 55
+[10-May-2022 15:36:58 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, null given in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 56
+[10-May-2022 15:42:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:47) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 167
+[10-May-2022 15:43:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:130) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 167
+[10-May-2022 16:06:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:74) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 142
+[10-May-2022 17:33:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sxhd01ne/public_html/codemia/img/curso.jpg.php:83) in /home/sxhd01ne/public_html/codemia/img/curso.jpg.php on line 140

@@ -1,0 +1,39 @@
+#curso img {
+    max-width: 50%;
+    max-height: 300px;
+    float: right;
+    margin-top: 20px;
+}
+#curso h3 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+#curso p {
+    line-height: 1.8rem;
+}
+#curso-botoes {
+    display: flex;
+    justify-content: space-between;
+}
+button {
+    background-color: darkblue;
+    color: #fff;
+    padding: 6px 15px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border-radius: 6px;
+}
+button:hover {
+    background-color: darkred;
+    letter-spacing: 1px;
+    box-shadow: 5px 5px 5px #aaa;
+    transition: .3s;        
+}
+
+@media screen and (max-width: 600px) {  
+
+    #curso-botoes {
+        flex-direction: column;
+        gap: 30px;
+    }
+}

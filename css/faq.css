@@ -1,0 +1,33 @@
+#perguntas {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+.pergunta {
+    border:1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #aaa;
+    background-color: rgba(255, 255, 255, .9);
+    font-size:1.2rem;
+    margin-bottom: 10px;
+}
+.pergunta-tit {
+    font-size: 1.1rem;
+    font-weight: bold;
+    background-color: darkblue;
+    color:#fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+.resposta {
+    padding:20px;
+    font-size: .8rem;
+}
+
+@media screen and (max-width: 600px) {  
+
+    #perguntas {
+        grid-template-columns: 1fr;
+    }
+}

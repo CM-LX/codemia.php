@@ -1,0 +1,18 @@
+#txtpagina p {
+    font-size: .9rem;
+    line-height: 1.5rem;
+}
+#txtpagina a {
+    font-weight: bold;
+    color: blue;
+}
+#txtpagina a:hover {
+    color: darkblue;
+    letter-spacing: .5px;
+}
+#txtpagina img {
+    width: 50%;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

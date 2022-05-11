@@ -1,0 +1,124 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+.admin_container {
+	width: 80%;
+	margin: 0 auto;
+}
+.admin_container header {
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.admin_container header a {
+	color: #fff;
+}
+
+.admin_container form {
+	display: inline-block;
+}
+
+.admin_container input {
+	font-family: 'Roboto', sans-serif;
+	padding: 5px 10px;
+	font-size: 1.1rem;
+	width:400px;
+	margin-right: 10px;
+}
+.admin_container button {
+	font-size: 1.1rem;
+	padding: 5px 10px;
+}
+.admin_cursos_container form {
+	width: 100%;
+}
+.admin_cursos_container table {
+	width: 100%;
+	border-collapse: collapse;
+}
+.admin_cursos_container table thead td {
+	background-color: #888;
+	color: #fff;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+.admin_cursos_container table td.eee {
+	background-color: #eee;
+	font-weight: bold;
+}
+.admin_cursos_container table td {
+	padding: 10px;
+	border: 1px solid #888;
+	vertical-align: top;
+}
+.td12rem {
+	width: 12rem;
+}
+.admin_cursos_container input,
+.admin_cursos_container input[type="date"],
+.admin_cursos_container textarea {
+	padding: 0 10px;
+	width: 100%;
+	font-size: 1.1em;
+	resize: none;
+}
+.admin_cursos_container #resumo,
+.admin_cursos_container #projeto {
+	height:60px;
+}
+
+.admin_cursos_container #objetivo, 
+.admin_cursos_container #notas {
+	height:100px;
+}
+
+#sel_imagem {
+	width: 50%;
+	height: 50%;
+	position: fixed;
+	top: 25%;
+	left: 25%;
+	z-index: 1;
+	background-color: rgba(255, 255, 255, .9);
+	border: 1px solid #888;
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #888;
+	display: none;
+	padding: 10px;
+}
+#sel_imagem img {
+	max-width: 100px;
+	max-height: 75px;
+	margin-right: 20px;
+}
+
+#miniatura {
+    background-color: #fff;
+    position: absolute;
+    right: 205px;
+    top: 140px;
+    z-index: 2;
+}
+#miniatura img {
+    width: 100px;
+}
+
+.adminTableImg {
+    height: 30px; 
+    float: right
+}

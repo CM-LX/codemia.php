@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Robota", verdana, arial, sans-serif;
+    font-size: .9rem;
+    line-height: 160%; 
+    background-image: url("../img/codemia.bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    overflow-anchor: none;
+    width: 100%;
+    min-width: 100%;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+}
+
+#wrap {
+    min-height: 100vh;
+    padding-bottom: 60px;
+}
+.container {
+    width: auto;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {    
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #eee;
+    padding: 20px 0;
+    box-shadow: 0 5px 5px #aaa;
+    transition: width .5s;
+}
+#header .container {
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header-logo {
+    font-weight: bold;
+    font-size: 1.8rem;
+    transition: font-size .5s;
+}
+#header-logo a {
+    color: darkblue;
+}
+#header-links a {
+    color: #222;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    position: relative;
+    text-decoration: none;
+}
+#header a:hover {
+    color: darkblue;
+    border-bottom: 2px solid #000;
+}
+#header-hamburger {
+    display: none;
+    width: 25px;
+    height: 30px;
+}
+
+.menu {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    max-height: 0;
+    background: #fff;
+    padding: 0 20px;
+    opacity: 0;
+    transition: opacity .5s, max-height .5s;
+    z-index: 1000;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.menu-show {
+    padding: 0 20px;
+    opacity: 1;
+    max-height: 500px;
+    transition: opacity .5s, max-height .5s;
+}
+.menu a {
+    color: #000;
+    text-decoration: none;
+}
+.menu p {
+    padding: 10px 0;
+}
+
+#main {
+    max-width: 960px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: 10px;
+}
+
+#titpagina {
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 130%;
+    color: darkblue;
+    text-transform: uppercase;
+    padding: 10px 0 30px 0;
+}
+
+#footer {
+    font-size: .8rem;
+    background-color: rgba(40, 40, 40, .7);
+    color: #ddd;
+    padding:15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#footer-items {
+    display:flex;
+}
+
+@media screen and (min-width: 960px) {
+    .menu {
+        height: 0;
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+
+    #header {
+        width: auto;
+    }
+    .container {
+        margin: 0 20px;
+    }
+    #header-links {
+        display: none;
+    }
+    #header-hamburger {
+        display: block;
+    }
+    #main {
+        grid-template-columns: 1fr 1fr;
+        margin: 20px 20px 0 20px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {  
+
+    #header {
+        margin-bottom: 20px;
+    }
+    #header-logo {
+        font-size: 1.5rem;
+    }
+    #footer-items {
+        flex-direction: column;
+    }
+    #footer-items div {
+        margin: 5px 0;
+    }
+}
