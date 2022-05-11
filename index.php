@@ -1,5 +1,5 @@
 <?php
-    $title = ' | Cursos de Programação Web';
+    $title = ' | Cursos de programação web';
     $css = 'index';
     include('inc/header.php');
     include('inc/fn.diaSemana.php');
